@@ -7,6 +7,12 @@
 	var paths = require("./paths.js");
 
 	module.exports = function(config) {
+		
+		
+		
+		
+		
+		
 		config.set({
 
 			// base path, that will be used to resolve files and exclude
